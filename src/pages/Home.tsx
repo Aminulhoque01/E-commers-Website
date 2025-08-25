@@ -16,8 +16,8 @@ export default function Home() {
             choice your best product from here
           </p>
           <div className="text-primary mt-20">
-            <p>Bluetooth 5.2 for easy, secure communication</p>
-            <p>Precise 143 Amoled display for clear visuals</p>
+            <p>E-commerce encompasses buying and selling goods <br /> using the Internet and transferring money and data to complete those transactions. <br /> All stores that sell products online fall under this classification. This could include anything from online marketplaces like Amazon and Etsy to food delivery platforms and B2B services.</p>
+             
           </div>
           <Button className="mt-5">Learn more</Button>
         </div>
